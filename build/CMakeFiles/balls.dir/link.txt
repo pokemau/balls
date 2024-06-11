@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/balls.dir/src/main.c.o -o balls  _deps/raylib-build/raylib/libraylib.a -lm -lpthread /usr/lib64/libOpenGL.so /usr/lib64/libGLX.so _deps/raylib-build/raylib/external/glfw/src/libglfw3.a /usr/lib64/librt.a -lm -ldl 
